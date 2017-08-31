@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER MotorSpeedPosition
+	OPTION supported_peripherals = (MotorSpeedPosition);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = MotorSpeedPosition;
+END DRIVER

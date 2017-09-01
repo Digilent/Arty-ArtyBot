@@ -10,7 +10,7 @@
 /************ Include Files ************/
 
 #include "artyBotLib.h"
-#include "microblaze_sleep.h"
+#include "sleep.h"
 #include "motorControl.h"
 #include "MotorSpeedPosition.h"
 #include "pidController.h"

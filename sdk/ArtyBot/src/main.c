@@ -18,7 +18,7 @@
 #include <stdlib.h>
 #include "artyBotLib.h"
 #include "MAXSONAR_Processor.h"
-#include "microblaze_sleep.h"
+#include "sleep.h"
 #include "motorControl.h"
 #include "platform.h"
 #include "PmodJSTK2.h"

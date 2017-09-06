@@ -10,11 +10,11 @@
 /************ Include Files ************/
 
 #include "artyBotLib.h"
-#include "sleep.h"
 #include "motorControl.h"
 #include "MotorSpeedPosition.h"
 #include "pidController.h"
 #include "PWM.h"
+#include "sleep.h"
 
 
 /************ Macro Definitions ************/
